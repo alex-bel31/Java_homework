@@ -8,7 +8,7 @@
 
 * [Homework_3](https://github.com/alex-bel31/Java_homework/tree/main/homework_3) - алгоритм сортировки слиянием.
 
-* [Homework_4](https://github.com/alex-bel31/Java_homework/tree/main/homework_4) - алгоритм пирамидальной сортировки(HeapSort)
+* [Homework_4](https://github.com/alex-bel31/Java_homework/tree/main/homework_4) - алгоритм пирамидальной сортировки (HeapSort)
 
 
 
