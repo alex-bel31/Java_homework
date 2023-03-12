@@ -1,6 +1,6 @@
 # Java: знакомство и как пользоваться базовым API
 
-## Homework
+## Homeworks
 
 * [Homework_1](https://github.com/alex-bel31/Java_homework/tree/main/homework) - Программа для вычисления n - ого треугольника
 
@@ -12,3 +12,4 @@
 * [Homework_5](https://github.com/alex-bel31/Java_homework/tree/main/homework_5) - Механизм печати карты в рамках реализации волнового алгоритма.
 * [Homework_6](https://github.com/alex-bel31/Java_homework/tree/main/homework_6) - TO DO
 * [Homework_7](https://github.com/alex-bel31/Java_homework/tree/main/homework_7) - Принципы ООП: Инкапсуляция, наследование, полиморфизм
+* [Homework_8](https://github.com/alex-bel31/Java_homework/tree/main/homework_8) - Принципы ООП Абстракция и интерфейсы. Пример проектирования
